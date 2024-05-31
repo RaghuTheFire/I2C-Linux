@@ -16,10 +16,10 @@
 5. **Stop Condition:** The master generates a stop condition by releasing the SDA line while SCL is high, signaling the end of communication.
 
 **Common Uses:**
-1.**Sensors:** Connecting temperature sensors, accelerometers, and other types of sensors to microcontrollers.
-2.**Real-Time Clocks (RTC):**Communicating with RTC modules to keep track of time.
-3.**EEPROMs:**Reading from and writing to EEPROM memory.
-4.**Display Modules:** Interfacing with character and graphic displays.
+1. **Sensors:** Connecting temperature sensors, accelerometers, and other types of sensors to microcontrollers.
+2. **Real-Time Clocks (RTC):** Communicating with RTC modules to keep track of time.
+3. **EEPROMs:** Reading from and writing to EEPROM memory.
+4. **Display Modules:** Interfacing with character and graphic displays.
 
 **Advantages:**
 1. **Simplicity and Ease of Use:** Minimal pin usage and easy implementation.

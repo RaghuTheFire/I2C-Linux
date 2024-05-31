@@ -1,5 +1,5 @@
 # I2C
-**I²C (Inter-Integrated Circuit)** is a widely used communication protocol in electronics for connecting low-speed devices like microcontrollers, sensors, and other peripherals. It was originally developed by Philips Semiconductor (now NXP Semiconductors) in 1982.
+**I²C (Inter-Integrated Circuit)** is a serial communication protocol, so data is transferred bit by bit along a single wired connection. It was originally developed in 1982 by Philips. It is a widely used protocol for short-distance communication. It is also known as Two Wired Interface(TWI). I2C is commonly used for connecting sensors, EEPROMs, real-time clocks, displays, and various other peripherals in embedded systems, IoT devices, and consumer electronics. Its simplicity and versatility make it a popular choice for communication in many applications.
 
 **Key Features of I²C:**
 1. **Two-Wire Interface:** I²C uses two bidirectional lines, Serial Data (SDA) and Serial Clock (SCL), for communication.

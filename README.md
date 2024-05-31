@@ -11,8 +11,8 @@
 
 **How I²C Works:**
 
-**1.Start Condition:** The master generates a start condition by pulling the SDA line low while keeping the SCL line high.
-**2. Address Frame:** The master sends the address of the target slave device along with a read/write bit.
-**3. Acknowledge Bit:** The addressed slave responds with an acknowledge bit.
-**4. Data Frames:** Data is transferred in 8-bit frames, followed by an acknowledge bit from the receiver.
+1. **Start Condition:** The master generates a start condition by pulling the SDA line low while keeping the SCL line high.
+2. **Address Frame:** The master sends the address of the target slave device along with a read/write bit.
+3. **Acknowledge Bit:** The addressed slave responds with an acknowledge bit.
+4. **Data Frames:** Data is transferred in 8-bit frames, followed by an acknowledge bit from the receiver.
 **5. Stop Condition:** The master generates a stop condition by releasing the SDA line while SCL is high, signaling the end of communication.

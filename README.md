@@ -29,3 +29,6 @@
 **Disadvantages:**
 1. **Speed Limitation:** Not suitable for high-speed communication compared to protocols like SPI.
 2. **Bus Length:** Limited to short distances, typically within the same PCB or module.
+
+3. ![image](https://github.com/raghunihal/I2C-Linux/assets/67452178/3a996904-b0a2-4708-8375-46261c26c94a)
+

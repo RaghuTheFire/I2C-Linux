@@ -31,5 +31,5 @@
     Cost-Effective: Reduces wiring complexity and cost.
     
 **Disadvantages:**
-**1. Speed Limitation: **Not suitable for high-speed communication compared to protocols like SPI.
-**2. Bus Length: **Limited to short distances, typically within the same PCB or module.
+1. **Speed Limitation:** Not suitable for high-speed communication compared to protocols like SPI.
+2. **Bus Length:** Limited to short distances, typically within the same PCB or module.
